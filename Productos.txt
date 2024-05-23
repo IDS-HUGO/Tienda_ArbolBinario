@@ -1,0 +1,30 @@
+Código: 9
+Nombre: 9
+Cantidad en existencia: 9
+Precio: 9.0
+
+Código: 10
+Nombre: sr
+Cantidad en existencia: 10
+Precio: 10.0
+
+Código: 11
+Nombre: 11
+Cantidad en existencia: 11
+Precio: 11.0
+
+Código: 12
+Nombre: 12
+Cantidad en existencia: 12
+Precio: 12.0
+
+Código: 13
+Nombre: 13
+Cantidad en existencia: 13
+Precio: 13.0
+
+Código: 14
+Nombre: 14
+Cantidad en existencia: 14
+Precio: 14.0
+
